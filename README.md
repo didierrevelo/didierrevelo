@@ -26,8 +26,8 @@ If you are interested in knowing more about me, you can find me on:
 **You can find me on:**
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/DidierRev)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/didierrevelo/)
-[<img src="https://img.shields.io/badge/WEBSITE-%230077B5.svg?&style=for-the-badge&logo"/>](https://didierrevelo.github.io/)
+[<img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/didierrevelo/)
+[<img src="https://img.shields.io/badge/WEBSITE-%231DA1F2.svg?&style=for-the-badge&logo=react&logoColor=white"/>](https://didierrevelo.github.io/)
 
 
 <details>
@@ -39,6 +39,7 @@ If you are interested in knowing more about me, you can find me on:
 	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <b>
 	<img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/> <b>
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+	<img src="https://img.shields.io/badge/react-%233573b5.svg?&style=for-the-badge&logo=react&logoColor=white" alt="Git"/>
 	
 </details>
 
