@@ -62,9 +62,3 @@ If you are interested in knowing more about me, you can find me on:
 	</ul>
 </details>
 
-<details>
-	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
-	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=didierrevelo&show_icons=true&count_private=true&title_color=ffb000&icon_color=785ef0&text_color=ffffff&theme=vision-friendly-dark" alt="GitHub Stats" align="top"/> <b>
-	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=didierrevelo&layout=compact&hide=java&title_color=ffb000&icon_color=785ef0&theme=vision-friendly-dark" alt="GitHub Top Languages" align="top"/>
-</details>
