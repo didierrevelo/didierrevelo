@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 👋 &nbsp;Hello <br/> I am Didier Revelo
 ======
 
-I´m a creative software developer from Colombia [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/)
+I´m a creative software developer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/)
 
 I consider myself proactive, curious with the ability to learn fast, I like to be in constant learning.
 
